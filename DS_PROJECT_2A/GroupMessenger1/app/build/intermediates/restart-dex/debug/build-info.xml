@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="19"
+    density="ldpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="34164555856480"
+    token="6894757336577673570"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="337" />
+    <task
+        name="instant-run-dex"
+        duration="581" />
+    <task
+        name="instant-run-transform"
+        duration="31" />
+    <task
+        name="verifier"
+        duration="12" />
+
+    <artifact
+        location="/Users/sudie/Desktop/Spring_2017/DS_Projects/DS_PROJECT_2/GroupMessenger1/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="34077988020673"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/sudie/Desktop/Spring_2017/DS_Projects/DS_PROJECT_2/GroupMessenger1/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="34164555856480"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/sudie/Desktop/Spring_2017/DS_Projects/DS_PROJECT_2/GroupMessenger1/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

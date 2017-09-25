@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/sudie/Desktop/Spring_2017/DS_Projects/DS_PROJECT_2/GroupMessenger1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="55dc00840927c790f790a08046f8e9bbe1090037">
+        <dex dex="/Users/sudie/Desktop/Spring_2017/DS_Projects/DS_PROJECT_2/GroupMessenger1/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_9d5c1adade4c5a0633ae2335af7c47963396f3a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sudie/Desktop/Spring_2017/DS_Projects/DS_PROJECT_2/GroupMessenger1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7eb9ac103f73b3bac6365815484ad5d7d940a0e6">
+        <dex dex="/Users/sudie/Desktop/Spring_2017/DS_Projects/DS_PROJECT_2/GroupMessenger1/app/build/intermediates/pre-dexed/debug/instant-run_fe7afffdac77d733cad2f559973d586b03923546.jar" />
+    </item>
+
+</items>

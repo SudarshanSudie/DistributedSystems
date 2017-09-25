@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Fri Feb 17 21:28:33 EST 2017
+2.base=/Users/sudie/Desktop/Spring_2017/DS_Projects/DS_PROJECT_1/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/sudie/Desktop/Spring_2017/DS_Projects/DS_PROJECT_1/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=/Users/sudie/Desktop/Spring_2017/DS_Projects/DS_PROJECT_1/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_
+6.file=/Users/sudie/Desktop/Spring_2017/DS_Projects/DS_PROJECT_1/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+2.set=ANDROID_RESOURCE
+4.base=/Users/sudie/Desktop/Spring_2017/DS_Projects/DS_PROJECT_1/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_
+count=7
+0.file=/Users/sudie/Desktop/Spring_2017/DS_Projects/DS_PROJECT_1/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_/res/drawable-ldpi-v4/ic_launcher.png
+5.base=/Users/sudie/Desktop/Spring_2017/DS_Projects/DS_PROJECT_1/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=/Users/sudie/Desktop/Spring_2017/DS_Projects/DS_PROJECT_1/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/sudie/Desktop/Spring_2017/DS_Projects/DS_PROJECT_1/SimpleMessenger/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+1.set=DEX
+2.file=/Users/sudie/Desktop/Spring_2017/DS_Projects/DS_PROJECT_1/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=/Users/sudie/Desktop/Spring_2017/DS_Projects/DS_PROJECT_1/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/sudie/Desktop/Spring_2017/DS_Projects/DS_PROJECT_1/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=/Users/sudie/Desktop/Spring_2017/DS_Projects/DS_PROJECT_1/SimpleMessenger/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+4.file=/Users/sudie/Desktop/Spring_2017/DS_Projects/DS_PROJECT_1/SimpleMessenger/app/build/intermediates/res/resources-debug.ap_/res/drawable-mdpi-v4/ic_launcher.png
+0.set=ANDROID_RESOURCE
